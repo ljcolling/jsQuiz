@@ -1,0 +1,9 @@
+# (uncomment to add a dependency)
+dependencies:
+  - name: jsQuiz
+    version: 1
+    src: htmlwidgets/lib
+    script:
+      - quiz.js
+    stylesheet:
+      - quiz.css
